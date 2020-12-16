@@ -1,8 +1,8 @@
-### Hi there 👋
-
+# Hi there, I'm Alessio Casolaro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true" width="30px">
 <!--
 **BearGrillz99/BearGrillz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true" width="30px">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
