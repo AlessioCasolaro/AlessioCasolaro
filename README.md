@@ -3,7 +3,7 @@
 <!--
 **BearGrillz99/BearGrillz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="animation.gif">
+<img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true">
 
 Here are some ideas to get you started:
 
