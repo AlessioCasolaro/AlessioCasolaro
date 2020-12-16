@@ -5,7 +5,6 @@
 
 - uses: lowlighter/metrics@latest
   with:
-    # ... other options
     plugin_languages: yes
 
 <!--
