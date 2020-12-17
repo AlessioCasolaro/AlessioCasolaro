@@ -1,11 +1,10 @@
 # Hi there, I'm Alessio Casolaro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true" width="100%">
 
+---
 <img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dracula&line_height=32"  width="50%">
 
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
+
 
 <!--
 **BearGrillz99/BearGrillz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
