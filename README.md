@@ -4,7 +4,7 @@
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dracula&line_height=32" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearGrillz&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearGrillz&layout=compact&count_private=true&include_all_commits=true">
 
 <!--
 **BearGrillz99/BearGrillz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
