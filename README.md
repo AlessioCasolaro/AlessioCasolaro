@@ -16,9 +16,9 @@
   <a href="https://www.instagram.com/alessio.casolaro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/alessio.casolaro" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 
 ![alt text](./materials/bottom.svg)
