@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./materials/top.svg)
 
 <img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true" width="100%">
 
