@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<div align="center">
 
-  <h2 boder="none">Let's Connect ☕</h2>
-  
+<h2 align="center">Let's Connect ☕</h2>
+<p align="center"> 
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
   <a href="https://www.instagram.com/alessio.casolaro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/alessio.casolaro" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://open.spotify.com/user/" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
   
-</div>
+</p>
 
 ![alt text](./materials/bottom.svg)
