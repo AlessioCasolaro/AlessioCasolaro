@@ -1,6 +1,6 @@
 ![alt text](./materials/top.svg)
 
-<img src="https://github.com/BearGrillz99/BearGrillz99/blob/main/animation.gif?raw=true" width="100%">
+
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dark">
