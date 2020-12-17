@@ -1,8 +1,10 @@
 ![alt text](./materials/top.svg)
+
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BearGrillz99&theme=dark&hide_border=true&bg_color=0d1117&layout=compact">
 </a>
 
