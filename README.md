@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ### Let's Connect :coffee:
-
+</div>
 
 ![alt text](./materials/bottom.svg)
