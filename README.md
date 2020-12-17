@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 
-![alt text](./images/bottom.svg)
+![alt text](./materials/bottom.svg)
