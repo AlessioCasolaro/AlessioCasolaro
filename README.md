@@ -10,6 +10,8 @@
 
 ---
 
+![Metrics](https://metrics.lecoq.io/BearGrillz99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome&config.animated=true)
+
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
