@@ -8,8 +8,6 @@
     <img src="https://metrics.lecoq.io/BearGrillz99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome&config.animated=true)"> 
 </a>
 
-![Metrics](https://metrics.lecoq.io/BearGrillz99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome&config.animated=true)
-
 ---
 
 <h3 align="center">Let's Connect ☕</h3>
@@ -26,5 +24,3 @@
 
 
 ![alt text](./materials/bottom.svg)
-
-//<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BearGrillz99&theme=dark&hide_border=true&bg_color=0d1117&langs_count=4&layout=compact">
