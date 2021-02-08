@@ -10,8 +10,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BearGrillz99)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
