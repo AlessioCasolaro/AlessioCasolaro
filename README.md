@@ -5,7 +5,7 @@
 <h3 align="center">Some boring stats📈</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="">
     <img src="https://github-readme-stats.vercel.app/api?username=BearGrillz99&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
-    <img src="https://metrics.lecoq.io/BearGrillz99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome&config.animated=true)"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearGrillz99&langs_count=8)"> 
 </a>
 
 ---
